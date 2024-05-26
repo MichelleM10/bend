@@ -1,0 +1,14 @@
+body{
+    background-color: light grey;
+    text-align: justify;
+}
+p{
+    font-family: Verdana,Helvetica,sans-serif;
+    font-size: 12px;
+  text-color: grey;
+}
+h2{
+  margin-left: 45%;
+  text-style: bold;
+  text-color: dark grey;
+}
