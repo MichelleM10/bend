@@ -1,21 +1,15 @@
 body{
     background-color: lightgrey;
     text-align: justify;
+    margin-left: 10%;
 }
 p{
     font-family: Verdana,Helvetica,sans-serif;
     font-size: 12px;
-  text-color: grey;
-    margin-left: 10%
+    color: grey;
 }
 h1{
   margin-left: 45%;
   text-style: bold;
-  text-color: darkgrey;
-}
-h2{
-    margin-left: 10%
-}
-table{
-    margin-left: 10%
+  color: darkred;
 }
